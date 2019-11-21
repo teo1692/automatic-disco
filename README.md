@@ -1,3 +1,3 @@
 # automatic-disco
 
-RESIZINIG SCRIPT
+FACE DETECTOR SCRIPT
